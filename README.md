@@ -11,3 +11,6 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
 ### [Regresión Logística](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_2_RegresionLogistica.ipynb)
       Video Tutorial Youtube Regresión Logística
       https://www.youtube.com/watch?v=EsZkmYc65cM&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=2
+
+### [Árboles de Decisión](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_3_ArbolesDecisi%C3%B3n.ipynb)
+      Video Tutorial Youtube Árboles de Decisión (Bosques Aleatorios Parte 1)

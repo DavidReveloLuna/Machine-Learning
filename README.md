@@ -15,3 +15,6 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
 ### [Árboles de Decisión](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_3_ArbolesDecisi%C3%B3n.ipynb)
       Video Tutorial Youtube Árboles de Decisión (Bosques Aleatorios Parte 1)
       https://www.youtube.com/watch?v=f0yyp16dMsM&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=3
+      
+### [Bosques Aleatorios](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_4_BosquesAleatorios.ipynb)
+      Video Tutorial Youtube Bossques Aleatorios

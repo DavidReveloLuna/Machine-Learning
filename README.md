@@ -18,3 +18,7 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
       
 ### [Bosques Aleatorios](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_4_BosquesAleatorios.ipynb)
       Video Tutorial Youtube Bossques Aleatorios
+      https://www.youtube.com/watch?v=jlJ4uKS9D5A&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=4
+
+### [Máquinas de Soporte Vectorial](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_5_M%C3%A1quinas_de_Soporte_Vectorial_SVM.ipynb)
+      Video Tutorial Youtube SVM

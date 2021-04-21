@@ -26,3 +26,4 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
 
 ### [Regresión Lineal Múltiple](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/3_6_Regresi%C3%B3n_Lineal_Multiple.ipynb)
       Video Tutorial Regresión Lineal Múltiple
+      https://www.youtube.com/watch?v=PYuScccrExY&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=6

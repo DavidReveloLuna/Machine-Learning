@@ -30,6 +30,7 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
       
 ### [AutoML](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/AutoML_Digits.ipynb)
       Video Tutorial Automated Machine Learning
+      https://www.youtube.com/watch?v=5gJ0m__wbgg&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=7
 
 ### [AutoML-Keras](https://github.com/DavidReveloLuna/Machine-Learning/blob/master/AutoML_Keras.ipynb)
       Video Tutorial Automated Machine Learning Auto-Keras

@@ -37,4 +37,4 @@ En este repositorio encontrarás código relacionado con los fundamentos de Mach
       https://www.youtube.com/watch?v=1F6VNe83b4s&list=PLsjK_a5MFguLlpIgaey8u46pCk72tcFY8&index=8
 
 # **Canal de Youtube**
-[Tutoriales en Youtube](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
+[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
